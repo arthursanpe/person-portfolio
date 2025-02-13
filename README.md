@@ -1,7 +1,7 @@
 # person-portfolio
 A Person website with my projects and works.
 
-I made this page with simple front-end (html,CSS, and bootstrap) to publish my projects.
+I made this page with simple frontend (html,CSS, and bootstrap) to publish my projects.
 
 This page have toogle button to change language, and responsive-design.
 
