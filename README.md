@@ -1,4 +1,4 @@
-# person-portfolio
+# Person-portfolio
 A Person website with my projects and works.
 
 I made this page with simple frontend (html,CSS, and bootstrap) to publish my projects.
